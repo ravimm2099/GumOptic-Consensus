@@ -1,0 +1,1 @@
+Bundled reference model for GumOptic Consensus. Keep forest_nodes.csv, centroids.csv, scaler.csv, and metadata.json together; they must share feature_version gumoptic23-v1. The app can classify reader images without the raw training archives. Model performance is exploratory and image-level only.
