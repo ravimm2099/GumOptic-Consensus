@@ -1,0 +1,5 @@
+# Optional model rebuild only; versions were not pinned in the supplied source.
+numpy
+pandas
+Pillow
+scikit-learn

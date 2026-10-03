@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "GumOptic-Consensus"
+message: "If you use this software, please cite the software release and the associated research article."
+type: software
+version: "1.0.0"
+date-released: "2026-10-03"
+authors:
+  - family-names: "Mathur"
+    given-names: "Manish"
+  - family-names: "Kulloli"
+    given-names: "Ravi Kirran"
+license: MIT
+repository-code: "REPLACE_WITH_PUBLIC_GITHUB_REPOSITORY_URL"
+abstract: "R Shiny software for closed-set optical screening of gum images from 13 woody plant species using a portable Random Forest and robust-scaled centroid similarity."
+keywords:
+  - botanical gum
+  - image classification
+  - Random Forest
+  - R Shiny
+  - optical features

@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local training-image archives (not included)
+training_archives/
+*.zip
